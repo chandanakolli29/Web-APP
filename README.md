@@ -1,1 +1,1 @@
-web application using two tables
+web application created using two tables in mongodb
